@@ -41,6 +41,6 @@ const d = prompt('На сколько оцените его?');
 personalMovieDB.movies[a] = b;
 personalMovieDB.movies[c] = d;
 personalMovieDB.actors[`bred`] = 54;
-personalMovieDB.actors['leo'] = 57;
+personalMovieDB.actors[`leo`] = 57;
 
 console.log(personalMovieDB);
